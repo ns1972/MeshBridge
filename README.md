@@ -21,7 +21,7 @@ This is an early release. It has been tested thoroughly, but on **one machine on
 
 ### 1. Your models, in your city
 
-Drop an `.obj` or `.fbx` in a folder, press Refresh, and place it. It arrives as a normal Procedural Object — movable, rotatable, vertex-editable, saved with your city like anything else.
+Drop an .obj or .fbx into Addons\Mods\MeshBridge\Import\, press Refresh in the window, and place it. It arrives as a normal Procedural Object — movable, rotatable, vertex-editable, saved with your city like anything else.
 
 No Asset Editor. No `.crp`. No restarting the game to see it.
 
